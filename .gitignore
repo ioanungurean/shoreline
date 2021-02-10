@@ -1,0 +1,6 @@
+# main
+node_modules
+dist
+
+# vscode
+.history
